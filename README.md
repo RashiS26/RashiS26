@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on GSOC 2026 and hackathons<br>🤝  I'm open to collaborating on Interesting projects. Actively seeking to connect with<br> passionate people across industries<br>🌱 I’m currently learning Data Structures and Algorithms<br>😊 My default mode? Enthusiastically open. Let's turn "hello" into a great conversation.<br>✉️  You can contact me at 2006rashi@gmail.com</p>
+<p align="left">🔭 I’m currently working on case competitions and hackathons<br>🤝  I'm open to collaborating on Interesting projects. Actively seeking to connect with<br> passionate people across industries<br>🌱 I’m currently learning Data Structures and Algorithms<br>😊 My default mode? Enthusiastically open. Let's turn "hello" into a great conversation.<br>✉️  You can contact me at 2006rashi@gmail.com</p>
 
 ###
 
